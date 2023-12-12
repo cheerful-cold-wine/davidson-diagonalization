@@ -1,2 +1,2 @@
 # davidson-diagonalization
-davidson-diagonalization in python
+davidson-diagonalization written in python

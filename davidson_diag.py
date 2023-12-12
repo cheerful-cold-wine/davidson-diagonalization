@@ -3,7 +3,7 @@ import scipy
 from scipy import linalg
 import time
 
-N = 15000
+N = 15000# dim of total matrix
 
 # construct a real symmetric matrix
 sparsity = 0.0001
